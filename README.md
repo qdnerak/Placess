@@ -1,4 +1,4 @@
-# place
+# places
 
 A new Flutter application.
 

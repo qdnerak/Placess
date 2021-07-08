@@ -11,7 +11,8 @@ class MyApp  extends StatelessWidget{
       title: "places",
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
+        visualDensity: VisualDensity.adaptivePlatformDensity
+
 
       ),
       home: MyHome(),
